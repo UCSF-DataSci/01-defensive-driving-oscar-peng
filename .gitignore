@@ -15,4 +15,4 @@ venv/
 .pytest_cache/
 
 # Local artifacts
-processed_email.txt
+# processed_email.txt
